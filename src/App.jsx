@@ -14,7 +14,7 @@ import git from './images/git2.png';
 function App() {
   const [viewCount, setViewCount] = useState(3242);
   const [currentTime, setCurrentTime] = useState(0);
-  const maxTime = 128;
+  const maxTime = 108;
   const [isPlaying, setIsPlaying] = useState(false);
   const [showOverlay, setShowOverlay] = useState(true);
   const [isOverlayClicked, setIsOverlayClicked] = useState(false);
