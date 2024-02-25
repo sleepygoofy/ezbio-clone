@@ -1,5 +1,6 @@
 import { defineConfig } from 'vite';
 import react from '@vitejs/plugin-react';
+import { resolve } from 'path';
 
 // https://vitejs.dev/config/
 export default defineConfig({
@@ -7,7 +8,7 @@ export default defineConfig({
   resolve: {
     alias: {
       // Map 'react-router-dom' to its actual location
-      'react-router-dom': 'react-router-dom/esm/react-router-dom.js'
+      'react-router-dom': 'react-router-dom'
     }
   }
 });
