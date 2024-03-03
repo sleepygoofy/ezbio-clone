@@ -1,4 +1,6 @@
-# Inspiration By: e-z.bio guns.lol feds.lol 
+# NEW v2 IS AT [shdwv2](https://github.com/AmarBajraktarevic/shdwsitev2). MADE WITH NEXTJS, TAILWIND, AND TYPESCRIPT!!
+
+Inspiration By: e-z.bio guns.lol feds.lol 
 
 - Profile Views
 - Personal Links
