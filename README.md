@@ -1,4 +1,6 @@
-# NEW v2 IS AT [shdwv2](https://github.com/AmarBajraktarevic/shdwsitev2). MADE WITH NEXTJS, TAILWIND, AND TYPESCRIPT!!
+# NEW V2 IS AT [SHDWV2](https://github.com/AmarBajraktarevic/shdwsitev2)
+# MADE WITH NEXTJS, TAILWIND, AND TYPESCRIPT!!
+# OPENSOURCE EZ-BIO / Linktree / Guns.lol / Feds.lol Page
 
 Inspiration By: e-z.bio guns.lol feds.lol 
 
