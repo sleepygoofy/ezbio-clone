@@ -1,6 +1,6 @@
-# NEW V2 IS AT [SHDWV2](https://github.com/AmarBajraktarevic/shdwsitev2)
-# MADE WITH NEXTJS, TAILWIND, AND TYPESCRIPT!!
-# OPENSOURCE EZ-BIO / Linktree / Guns.lol / Feds.lol Page
+#MAKE YOUR OWN PROFILE AT HTTPS://SHDW.SITE
+I have stopped updating this code as it's not in the language I want and old.
+
 
 Inspiration By: e-z.bio guns.lol feds.lol 
 
@@ -14,6 +14,10 @@ Inspiration By: e-z.bio guns.lol feds.lol
 -----------
 Website Currently for Personal Use.
 Account Creation is not an Option at the Moment.
+-Account Creation is at https://shdw.site
+At the moment shdw.site will be kept closed source.
+MADE WITH NEXTJS, TAILWIND, AND TYPESCRIPT!!
+
 -----------
 
 # React + Vite
